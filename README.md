@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Pavel Andreyev** and I'm a full stack developer.
+My name is **Pavlo Andreiev** and I'm a full stack developer.
 
 📫 How to reach me: pavel.andreyev.98@gmail.com
 
